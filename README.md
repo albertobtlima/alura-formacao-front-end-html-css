@@ -27,4 +27,4 @@ Carga Horária: 6h
 ### HTML e CSS: praticando HTML/CSS
 Carga Horária: 6h
 <p>Durante o curso foi criado o projeto Alura Plus.</p>
-<p>Acesse a página do projeto <a href="">aqui.</a></p>
+<p>Acesse a página do projeto <a href="https://albertobtlima.github.io/alura-plus/">aqui.</a></p>
