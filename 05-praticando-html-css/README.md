@@ -1,17 +1,16 @@
 # HTML e CSS: praticando HTML/CSS
-
-## Curso de HTML e CSS da Alura
-### Carga Horária: 8h
+### Curso de HTML e CSS da Alura, formação front end
+ **Carga Horária: 8h**
 
 Projeto Alura Plus
 
 ### Temas abordados durante o curso
-1. Construa um site utilizando HTML e CSS
-2. Identifique elementos e estilos através do Figma
-3. Aplique seus conhecimentos adquiridos até agora em um projeto real
-4. Crie um repositório para armazenar o código do projeto
-5. Realize o deploy de um site através do Github Pages ou Vercel
-6. Compartilhe o seu projeto com o mundo
+* Construa um site utilizando HTML e CSS
+* Identifique elementos e estilos através do Figma
+* Aplique seus conhecimentos adquiridos até agora em um projeto real
+* Crie um repositório para armazenar o código do projeto
+* Realize o deploy de um site através do Github Pages ou Vercel
+* Compartilhe o seu projeto com o mundo
 
 ### Aulas
 

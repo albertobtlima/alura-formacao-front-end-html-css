@@ -1,6 +1,7 @@
 # Formação: Front End HTML e CSS
-### Curso de HTML e CSS da Alura
 ### A partir do zero: HTML e CSS para projetos web
+
+Formação front end HTML e CSS da Alura.
 
 ---
 
@@ -30,3 +31,8 @@ Carga Horária: 6h
 Carga Horária: 8h
 <p>Durante o curso foi criado o projeto Alura Plus.</p>
 <p>Acesse a página do projeto <a href="https://alura-formacao-front-end-html-css.vercel.app/">aqui.</a></p>
+
+---
+
+### HTML e CSS: responsividade com mobile-first
+Carga Horária: 12h
