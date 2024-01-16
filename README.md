@@ -21,6 +21,8 @@ Carga Horária: 6h
 
 ### HTML e CSS: trabalhando com responsividade e publicação de projetos
 Carga Horária: 6h
+<p>Neste curso é finalizado o Projeto Portfólio</p>
+<p>Acesse a página do projeto <a href="https://projeto-portfolio-pied-five.vercel.app/">aqui.</a></p>
 
 ---
 
