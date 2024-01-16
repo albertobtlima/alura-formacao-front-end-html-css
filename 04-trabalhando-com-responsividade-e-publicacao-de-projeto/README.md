@@ -3,7 +3,7 @@
 ## Curso de HTML e CSS da Alura
 ### Carga Horária: 6h
 
-Neste curso é feita atualizações de responsividade e finalização do projeto anterior.
+Neste curso é feita atualizações de responsividade e finalização do Projeto Portfólio.
 
 ### Temas abordados durante o curso
 1. Saiba como tornar seu site responsivo para diferentes telas
