@@ -104,6 +104,47 @@
         </div>
     </section>
 
+    <section class="carrossel">
+        <h2 class="carrossel__titulo">Mais vendidos</h2>
+        <div class="swiper">
+            <div class="swiper-pagination"></div>
+            <div class="swiper-wrapper">
+                <!-- Slides -->
+                <div class="swiper-slide"><img src="img/ApacheKafka.svg" alt="Livro apache kafka"></div>
+                <div class="swiper-slide"><img src="img/Liderança.svg" alt="Livro liderança"></div>
+                <div class="swiper-slide"><img src="img/Javascript.svg" alt="Livro javascript"></div>
+                <div class="swiper-slide"><img src="img/Guia Front-end.svg" alt="Livro guia front-end"></div>
+                <div class="swiper-slide"><img src="img/Portugol.svg" alt="Livro portugol"></div>
+                <div class="swiper-slide"><img src="img/Acessibilidade.svg" alt="Livro acessibilidade"></div>
+            </div>
+            
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+
+        </div>
+
+        <div class="card">
+            <div class="card__descricao">
+                <div class="descricao">
+                    <img src="img/Estrelinhas.svg" alt="Estrelinhas">
+                    <h3 class="descricao__titulo">Autora do Mês</h3>
+                    <h2 class="descricao__titulo-livro">Juliana Agarikov</h2>
+                    <p class="descricao__texto">
+                        Analista de sistemas e escritora, Juliana é especialista em Front-End. 
+                    </p>
+                </div>
+                <img src="img/Perfil-escritora.svg" alt="Livro Angular" class="descricao__imagem">
+            </div>
+            <div class="card__botoes">
+                <ul class="botoes">
+                    <li class="botoes__item"><img src="img/Favoritos.svg" alt="Favoritar livro"></li>
+                    <li class="botoes__item"><img src="img/Sacola.svg" alt="Sacola de compras"></li>
+                </ul>
+                <a href="#" class="botoes__ancora">Saiba mais</a>
+            </div>
+        </div>
+    </section>
+
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script>
         const swiper = new Swiper('.swiper', {
