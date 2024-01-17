@@ -2,7 +2,7 @@
 ### Curso de HTML e CSS da Alura, formação front end
 **Carga Horária: 12h**
 
-Projeto Alura Books desenvolvido durante o curso 
+Projeto AluraBooks desenvolvido durante o curso 
 
 ### Temas abordados durante o curso
 * Construa um site com HTML e CSS
