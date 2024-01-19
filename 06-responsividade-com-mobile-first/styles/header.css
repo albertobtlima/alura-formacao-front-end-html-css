@@ -56,11 +56,7 @@
     text-transform: uppercase;
 }
 
-.container__titulo {
-    display: none;
-}
-
-.opcoes {
+.container__titulo, .opcoes, .container__texto {
     display: none;
 }
 
@@ -112,5 +108,27 @@
 
     .lista-menu__item:hover {
         background-color: var(--azul);
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    .cabecalho {
+        padding: 0 3em;
+    }
+
+    .opcoes {
+        margin-right: auto;
+    }
+
+    .container__link {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--preto);
+        font-size: 20px;
+    }
+
+    .container__texto {
+        display: block;
     }
 }
