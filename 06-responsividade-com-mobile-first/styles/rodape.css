@@ -41,6 +41,10 @@ hr {
         color: var(--cinza);
         margin-left: 0.5em;
     }
+
+    .lista-rodape__link:hover {
+        color: var(--laranja);
+    }
 }
 
 @media screen and (min-width: 1728px) {

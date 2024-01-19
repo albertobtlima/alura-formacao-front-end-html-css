@@ -28,6 +28,7 @@
     text-decoration: none;
     font-size: 14px;
     font-weight: 700;
+    transition: 0.3s;
 }
 
 @media screen and (min-width: 1024px) {
@@ -37,6 +38,11 @@
 
     .topicos__link {
         font-size: 24px;
+    }
+
+    .topicos__link:hover {
+        color: var(--laranja);
+        background-color: var(--branco);
     }
 }
 
