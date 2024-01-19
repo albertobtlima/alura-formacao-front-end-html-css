@@ -37,4 +37,4 @@ Carga Horária: 8h
 ### HTML e CSS: responsividade com mobile-first
 Carga Horária: 12h
 <p>Durante o curso foi criado o projeto AluraBooks.</p>
-<p>Acesse a página do projeto <a href="">aqui.</a></p>
+<p>Acesse a página do projeto <a href="https://alura-books-olive-rho.vercel.app/">aqui.</a></p>
