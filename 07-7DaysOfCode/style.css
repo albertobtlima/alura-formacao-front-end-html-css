@@ -103,7 +103,7 @@ hr {
 }
 
 .card__btn-video, .card__btn-audio, .card__botao {
-    padding: 1em;
+    padding: 1em 1.5em;
     font-size: 14px;
     font-weight: 500;
     border-radius: 8px;
