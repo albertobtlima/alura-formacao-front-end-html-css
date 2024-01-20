@@ -1,0 +1,132 @@
+:root {
+    --font-principal: 'Montserrat', sans-serif;
+    --cor-de-fundo: #edeaea;
+    --cor-de-fundo-card: #fff;
+    --cinza-claro: #d7d0d0;
+    --laranja: #FFB050;
+    --branco: #fff;
+    --azul: #4894FF;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: var(--font-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+hr {
+    border-color: var(--cor-de-fundo);
+    margin: 0;
+}
+
+.cabecalho {
+    display: flex;
+    padding: 1em 1em 0 1em;
+    align-items: center;
+}
+
+.cabecalho__foto {
+    width: 57px;
+    border-radius: 50px;
+}
+
+.cabecalho__perfil {
+    padding: 1em;
+}
+
+.cabecalho__perfil-nome {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: .5em;
+}
+
+.cabecalho__perfil-consultas {
+    font-size: 14px;
+}
+
+.consultas {
+    padding: 0 1em;
+}
+
+.consultas__titulo {
+    font-weight: 700;
+    padding: 1em 0;
+}
+
+.consultas__container {
+    background-color: var(--cor-de-fundo-card);
+    border-radius: 8px;
+}
+
+.card__paciente {
+    display: flex;
+    padding: 1em;
+    justify-content: space-between;
+}
+
+.card__paciente-foto {
+    width: 32px;
+    border-radius: 50px;
+    
+}
+
+.paciente__perfil {
+    width: 70%;
+}
+
+.paciente__perfil-nome {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: .5em;
+}
+
+.consulta__remota {
+    display: flex;
+    text-decoration: none;
+}
+
+.consulta__remota-texto {
+    font-size: 12px;
+    color: var(--cinza-claro);
+    margin-left: .5em;
+}
+
+.card__paciente-parte2 {
+    padding: 1em;
+}
+
+.consulta__hora {
+    font-size: 12px;
+    font-weight: 500;
+    margin-bottom: 1em;
+}
+
+.card__btn-video, .card__btn-audio, .card__botao {
+    padding: 1em;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 8px;
+    border: 0;
+}
+
+.card__btn-video {
+    background-color: var(--laranja);
+    color: var(--branco);
+}
+
+.card__btn-audio {
+    background-color: transparent;
+    border: 1px solid var(--cinza-claro);
+}
+
+.card__botoes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card__botao {
+    background-color: var(--azul);
+    color: var(--branco);
+    width: 100%;
+}
