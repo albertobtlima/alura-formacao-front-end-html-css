@@ -1,7 +1,21 @@
-# Formação: Front End HTML e CSS
+# Formação: Front End
 ### A partir do zero: HTML e CSS para projetos web
 
-Formação front end HTML e CSS da Alura.
+**Carga Horária**: 53h
+
+**Cursos**: 6
+
+Formação front-end da Alura focada em HTML e CSS.
+
+Tópicos dessa formação:
+
+* Ferramentas de desenvolvimento de _layouts_ (ex: **Figma**) e publicação (ex: **Github**)
+* Estruturar uma página web com _tags_ **HTML**
+* Compreender como **HTML** e **CSS** trabalham juntos
+* Descobrir como organizar o conteúdo com arquivos **HTML**
+* Organizar uma página com **CSS Flexbox**
+* Criar cabeçalhos, rodapés e aplicar estilos com **CSS**
+* Tornar seu site **responsivo** para diferentes tamanhos de tela
 
 ---
 
